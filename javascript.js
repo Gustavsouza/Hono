@@ -9,7 +9,7 @@ if(n1 < 1){
     document.getElementById('n1').focus();
 }else{
 resultado = n1 * n2;
-document.getElementById('resultado').value = resultado; 
+document.getElementById('resultado').value ='R$ '+ resultado; 
 }
 };
 //
