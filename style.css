@@ -9,16 +9,24 @@ header{
     margin: 0 auto;
     text-align: center;
     background-color: aliceblue;
-    box-shadow: 1px 4px 100px rgba(240, 248, 255, 0.356);
+    box-shadow: 1px 4px 15px rgba(250, 252, 253, 0.695);
     padding: 20px;
     border-radius: 3px;
 }
 span{
     display: block;
+    padding-bottom: 2px;
 }
 button{
     margin-top: 10px;
 }
 body{
     background-color: black;
+}
+input{
+    border-radius: 2px;
+}
+input:hover{
+    border: 2px solid rgba(245, 30, 6, 0.982);
+    border-radius: 3px;
 }
