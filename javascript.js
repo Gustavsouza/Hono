@@ -12,3 +12,4 @@ resultado = n1 * n2;
 document.getElementById('resultado').value = resultado; 
 }
 };
+//
